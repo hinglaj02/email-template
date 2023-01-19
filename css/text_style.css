@@ -1,0 +1,103 @@
+
+  @font-face {
+    font-family: 'Google Sans';
+    font-style: normal;
+    font-weight: 400;
+    mso-font-alt: Arial;
+    src: local('Google Sans Regular'), local('GoogleSans-Regular'), url('https://fonts.gstatic.com/s/googlesans/v6/4UaGrENHsxJlGDuGo1OIlL3Owps.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Google Sans';
+    font-style: normal;
+    font-weight: 500;
+    mso-font-alt: Arial;
+    src: local('Google Sans Medium'), local('GoogleSans-Medium'), url('https://fonts.gstatic.com/s/googlesans/v6/4UabrENHsxJlGDuGo1OIlLU94YtzCwM.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Google Sans';
+    font-style: normal;
+    font-weight: 700;
+    mso-font-alt: Arial;
+    src: local('Google Sans Bold'), local('GoogleSans-Bold'), url('https://fonts.gstatic.com/s/googlesans/v6/4UabrENHsxJlGDuGo1OIlLV154tzCwM.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Google Sans Text';
+    font-weight: 700;
+    mso-font-alt: Arial;
+    font-style: normal;
+    src: url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/googlesanstext-bold-webfont.woff2') format('woff2'),
+        url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/googlesanstext-bold-webfont.woff') format('woff'),
+        url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/GoogleSansText-Bold.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Google Sans Text';
+    font-style: normal;
+    font-weight: 500;
+    mso-font-alt: Arial;
+    src: url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/googlesanstext-medium-webfont.woff2') format('woff2'),
+        url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/googlesanstext-medium-webfont.woff') format('woff'),
+        url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/GoogleSansText-Medium.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Google Sans Text';
+    font-style: normal;
+    font-weight: 400;
+    mso-font-alt: Arial;
+    src: url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/googlesanstext-regular-webfont.woff2') format('woff2'),
+        url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/googlesanstext-regular-webfont.woff') format('woff'),
+        url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/GoogleSansText-Regular.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Google Sans Display';
+    font-style: normal;
+    font-weight: 700;
+    mso-font-alt: Arial;
+    src: url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/googlesansdisplay-bold-webfont.woff2') format('woff2'),
+        url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/googlesansdisplay-bold-webfont.woff') format('woff'),
+        url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/GoogleSansDisplay-Bold.ttf') format('truetype');
+  }
+  @font-face {
+    font-family: 'Google Sans Display';
+    src: url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/googlesansdisplay-regular-webfont.woff2') format('woff2'),
+        url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/googlesansdisplay-regular-webfont.woff') format('woff'),
+        url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/GoogleSansDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    mso-font-alt: Arial;
+  }
+  @font-face {
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 500;
+    src: url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-500.woff');
+    src: local('Noto Sans Japanese Medium'), local('NotoSansJapanese-Medium'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-500.eot?#iefix') format('embedded-opentype'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-500.woff2') format('woff2'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-500.woff') format('woff'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-500.ttf') format('truetype'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-500.svg#NotoSansJP') format('svg');
+  }
+  @font-face {
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 400;
+    src: url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-regular.woff');
+    src: local('Noto Sans Japanese Regular'), local('NotoSansJapanese-Regular'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-regular.eot?#iefix') format('embedded-opentype'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-regular.woff2') format('woff2'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-regular.woff') format('woff'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-regular.ttf') format('truetype'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-regular.svg#NotoSansJP') format('svg');
+  }
+  @font-face {
+    font-family: 'Noto Sans JP';
+    font-style: normal;
+    font-weight: 700;
+    src: url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-700.woff');
+    src: local('Noto Sans Japanese Bold'), local('NotoSansJapanese-Bold'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-700.eot?#iefix') format('embedded-opentype'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-700.woff2') format('woff2'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-700.woff') format('woff'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-700.ttf') format('truetype'),
+    url('https://lp.cloudplatformonline.com/rs/808-GJW-314/images/noto-sans-jp-v24-latin_japanese-700.svg#NotoSansJP') format('svg');
+  }
